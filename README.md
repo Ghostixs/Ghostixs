@@ -14,6 +14,14 @@ I have more than 10 years of experience across technical operations, customer ex
 
 Today I support enterprise Microsoft licensing and operational workflows. I am also building practical skills in AI-enabled operations and enterprise systems by creating Nova, a private self-hosted platform that lets me learn through real implementation, recovery, monitoring, and documentation work.
 
+## Featured project: Support Knowledge Assistant
+
+**[Try the live prototype](https://ghostixs.github.io/nova-support-assistant/)** or **[review the source](https://github.com/Ghostixs/nova-support-assistant)**.
+
+I built a transparent support-knowledge prototype using synthetic content, deterministic retrieval, source citations, confidence-based routing, policy-driven human handoff, and a repeatable 28-question evaluation set.
+
+The project demonstrates a practical operating pattern: retrieve documented guidance, show the supporting evidence, and require a person when a question involves security, broad service impact, sensitive data, or weak support from the knowledge base. It is a working public prototype, not a production AI or RAG deployment.
+
 ## Featured project: Nova
 
 <img align="right" src="assets/nova-icon.png" width="180" alt="Nova project artwork">
