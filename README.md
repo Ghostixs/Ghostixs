@@ -24,7 +24,7 @@ The project demonstrates a practical operating pattern: retrieve documented guid
 
 ## Featured project: Nova
 
-<img align="right" src="assets/nova-icon.png" width="180" alt="Nova project artwork">
+<img align="right" src="assets/headshot.png" width="180" alt="Jacque Baldenegro professional headshot">
 
 **[Nova System Overview](https://github.com/Ghostixs/nova-system-overview)** is a public, security-sanitized case study of my private personal operations environment.
 
