@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jacque Baldenegro</title>
+  <desc id="desc">Technical operations, customer experience, Microsoft cloud, SaaS support, and AI workflow automation</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d20"/>
+      <stop offset="0.55" stop-color="#1d1240"/>
+      <stop offset="1" stop-color="#35105b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.34" r="0.58">
+      <stop offset="0" stop-color="#d946ef" stop-opacity="0.38"/>
+      <stop offset="0.48" stop-color="#8b5cf6" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#090d20" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <g opacity="0.78">
+    <circle cx="1010" cy="64" r="4" fill="#67e8f9"/>
+    <circle cx="1082" cy="112" r="3" fill="#e879f9"/>
+    <circle cx="940" cy="220" r="3" fill="#c4b5fd"/>
+    <path d="M850 82h82l28 28h92" fill="none" stroke="#67e8f9" stroke-opacity="0.35" stroke-width="2"/>
+    <path d="M892 208h76l24-24h118" fill="none" stroke="#e879f9" stroke-opacity="0.32" stroke-width="2"/>
+    <circle cx="932" cy="82" r="5" fill="#67e8f9" filter="url(#softGlow)"/>
+    <circle cx="968" cy="208" r="5" fill="#e879f9" filter="url(#softGlow)"/>
+  </g>
+  <text x="70" y="112" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="54" font-weight="700">Jacque Baldenegro</text>
+  <text x="72" y="164" fill="#d8b4fe" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="600">Technical Operations &amp; Customer Experience</text>
+  <text x="72" y="207" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21">Microsoft Cloud · SaaS Support · AI Workflow Automation</text>
+  <rect x="72" y="238" width="178" height="4" rx="2" fill="#a855f7"/>
+  <rect x="258" y="238" width="74" height="4" rx="2" fill="#22d3ee"/>
+</svg>
