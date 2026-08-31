@@ -16,7 +16,9 @@ Today I support enterprise Microsoft licensing and operational workflows. I am a
 
 ## Featured project: Support Knowledge Assistant
 
-**[Try the live prototype](https://ghostixs.github.io/nova-support-assistant/)** or **[review the source](https://github.com/Ghostixs/nova-support-assistant)**.
+**[Try the live prototype](https://ghostixs.github.io/support-knowledge-assistant/)** or **[review the source](https://github.com/Ghostixs/support-knowledge-assistant)**.
+
+This is an independent professional portfolio project, separate from my personal Nova environment.
 
 I built a transparent support-knowledge prototype using synthetic content, deterministic retrieval, source citations, confidence-based routing, policy-driven human handoff, and a repeatable 28-question evaluation set.
 
