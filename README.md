@@ -26,9 +26,7 @@ The project demonstrates a practical operating pattern: retrieve documented guid
 
 ## Featured project: Nova
 
-<p align="center">
-  <img src="assets/nova-builder-engineering.webp" alt="Illustrated Nova builder actively coding in a purple-lit workspace" width="420">
-</p>
+<img align="right" src="assets/nova-builder-engineering.webp" width="180" alt="Illustrated Nova builder actively coding in a purple-lit workspace">
 
 **[Nova System Overview](https://github.com/Ghostixs/nova-system-overview)** is a public, security-sanitized case study of my private personal operations environment.
 
@@ -38,6 +36,7 @@ I built Nova to practice the work behind reliable systems: understanding require
 
 Advanced AI memory, retrieval, agent routing, MCP tools, and human-approved actions are roadmap items. They are not presented as production capabilities.
 
+<br clear="right">
 
 ## Current focus
 
