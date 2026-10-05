@@ -32,6 +32,8 @@ The project demonstrates a practical operating pattern: retrieve documented guid
 
 The verified foundation includes Docker under WSL2, private networking, service dashboards, metrics and logs, availability monitoring, Home Assistant, media workflows, credential management, Open WebUI, and documented backup and recovery work.
 
+Recent milestone: a [fail-closed Download Security Gate](https://github.com/Ghostixs/nova-system-overview/blob/main/docs/case-study-download-security-gate.md) with isolated staging, identity-bound validation, explicit release states and recovery checks. The deployed offline path reached RELEASED; live acquisition and import remain unqualified. This is personal systems engineering work across Windows, Linux and WSL2.
+
 I built Nova to practice the work behind reliable systems: understanding requirements, connecting services, diagnosing failures, protecting state, documenting decisions, and separating what works today from what is still an experiment.
 
 Advanced AI memory, retrieval, agent routing, MCP tools, and human-approved actions are roadmap items. They are not presented as production capabilities.
