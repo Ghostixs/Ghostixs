@@ -1,62 +1,65 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Jacque Baldenegro, technical operations and customer experience" width="100%">
-</p>
+# Jacque Baldenegro
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaba6/">LinkedIn</a> ·
-  <a href="https://github.com/Ghostixs/nova-system-overview">Nova system overview</a> ·
-  Phoenix, Arizona
-</p>
+### Aspiring Forward-Deployed AI Solutions Architect · currently AI Automation Builder
 
-## Hello, I am Jacque
+AI Automation Builder working forward deployed: I embed with a business, find the workflow that costs the most time, and ship an AI system that runs in production — then train their team to run it. Hermes/Nova, n8n, AI agents, MCP and automation pipelines.
 
-I have more than 10 years of experience across technical operations, customer experience, SaaS support, Microsoft cloud, sales engineering, implementation support, troubleshooting, requirements discovery, training, documentation, and workflow improvement.
+[LinkedIn](https://www.linkedin.com/in/jaba6) · [Nexus Mods](https://www.nexusmods.com/graveyardkeeper2/users/58580501) · [Contact](mailto:bjacque92@gmail.com)
 
-Today I support enterprise Microsoft licensing and operational workflows. I am also building practical skills in AI-enabled operations and enterprise systems by creating Nova, a private self-hosted platform that lets me learn through real implementation, recovery, monitoring, and documentation work.
+---
 
-## Featured project: Support Knowledge Assistant
+## What a forward-deployed engagement looks like with me
 
-**[Try the live prototype](https://ghostixs.github.io/support-knowledge-assistant/)** or **[review the source](https://github.com/Ghostixs/support-knowledge-assistant)**.
+1. **Discover:** sit with the team, map the real process, find the repetitive, error-prone steps.
+2. **Build:** ship a working automation or AI agent against the client's own tools (n8n, sheets, CRM, Slack, Discord).
+3. **Deploy:** connect it to live systems with error handling, human-in-the-loop approvals and logging.
+4. **Hand over:** documentation, monitoring and a clear owner so it keeps running after I leave.
 
-This is an independent professional portfolio project, separate from my personal Nova environment.
+## Services
 
-I built a transparent support-knowledge prototype using synthetic content, deterministic retrieval, source citations, confidence-based routing, policy-driven human handoff, and a repeatable 28-question evaluation set.
+| Service | Details |
+| --- | --- |
+| Workflow automation | Production n8n workflows, integrations, webhooks, error handling |
+| Job-search & career operations | Discovery, scoring and tailored applications |
+| Knowledge & enablement systems | Cited, confidence-scored assistants and runbooks |
+| Household & ops automation | Comparison, routing and price-watch automations |
 
-The project demonstrates a practical operating pattern: retrieve documented guidance, show the supporting evidence, and require a person when a question involves security, broad service impact, sensitive data, or weak support from the knowledge base. It is a working public prototype, not a production AI or RAG deployment.
+## Skills
 
-## Featured project: Nova
+- **Automation platforms:** n8n, Hermes (Nova), cron orchestration
+- **AI and agents:** multi-profile assistants, prompt engineering, RAG, MCP
+- **Business tools:** Notion, Todoist, Google Workspace, Discord, Telegram, SearXNG
+- **Web and backend:** TypeScript, React, Vite, Tailwind, Node
+- **Delivery:** APIs and webhooks, workflow design, documentation, client communication
 
-<img align="right" src="assets/nova-builder-engineering.webp" width="180" alt="Illustrated Nova builder actively coding in a purple-lit workspace">
+## Selected work
 
-**[Nova System Overview](https://github.com/Ghostixs/nova-system-overview)** is a public, security-sanitized case study of my private personal operations environment.
+- **AI Job Scout** — cron + multi-source discovery + fit-gated Notion kanban
+- **Revenge Discord Plugins** — public plugin repository on GitHub Pages
+- **Linked Storage (Graveyard Keeper 2 mod)** — 11,019 unique downloads on Nexus Mods
+- **Support Knowledge Assistant** — cited-retrieval chatbot with confidence thresholds
+- **Nova personal AI ops platform** — 10 profiles, 30+ scheduled automations
 
-The verified foundation includes Docker under WSL2, private networking, service dashboards, metrics and logs, availability monitoring, Home Assistant, media workflows, credential management, Open WebUI, and documented backup and recovery work.
+## Products & open repositories
 
-Recent milestone: [NOVA Media Level 1](https://github.com/Ghostixs/nova-system-overview/blob/main/docs/case-study-download-security-gate.md) is operational in owner-attended, publisher-restricted gated mode. The installed operator interface completed live owner-driven acquisition, independent Gate validation, separately authorized release, Sonarr import, Jellyfin delivery and transient cleanup. Each item requires personal APPROVE and post-validation RELEASE; automatic discovery and Level 2 remain disabled. This is personal systems engineering work across Windows, Linux and WSL2.
+| Project | What it is |
+| --- | --- |
+| [Revenge Plugins](https://github.com/Ghostixs/revenge-plugins) | Discord client-mod plugins, distributed via GitHub Pages |
+| [Linked Storage](https://www.nexusmods.com/graveyardkeeper2/mods/56) | Graveyard Keeper 2 mod: shared crafting + storage browser |
+| [Support Knowledge Assistant](https://github.com/Ghostixs/support-knowledge-assistant) · [live](https://ghostixs.github.io/support-knowledge-assistant/) | Cited-retrieval support chatbot |
+| [Nova system overview](https://github.com/Ghostixs/nova-system-overview) | Personal AI ops platform |
 
-I built Nova to practice the work behind reliable systems: understanding requirements, connecting services, diagnosing failures, protecting state, documenting decisions, and separating what works today from what is still an experiment.
+## Experience
 
-Advanced AI memory, retrieval, agent routing, MCP tools, and human-approved actions are roadmap items. They are not presented as production capabilities.
+- **AI Automation Builder** — n8n + Hermes/Nova builds for job search, content and household operations.
+- **Client/Operations Specialist, SoftwareOne** — Microsoft cloud, SaaS support, customer experience.
 
-<br clear="right">
+## Education & credentials
 
-## Current focus
+- n8n education courses (in progress)
+- DeepLearning.AI — workflow orchestration (in progress)
 
-- AI-enabled customer support workflows
-- Enterprise systems and process improvement
-- Human-in-the-loop automation
-- Knowledge systems and retrieval concepts
-- Observability and self-hosted infrastructure
-- Technical documentation and user enablement
+## Work with me
 
-## Tools and platforms
-
-`Microsoft 365` `Azure fundamentals` `Docker` `Linux` `WSL2` `Git` `GitHub`<br>
-`Grafana` `Prometheus` `Loki` `Home Assistant` `Open WebUI`<br>
-`Salesforce` `ServiceNow` `Zendesk` `SQL fundamentals` `API fundamentals`
-
-## How I work
-
-I learn by building, testing, documenting, and revisiting assumptions. The most valuable parts of Nova have not been flawless first attempts. They have been the moments when a service failed, the evidence conflicted, or a recovery plan needed to become clear enough for another person to follow.
-
-That same approach shapes my professional work: translate ambiguity into a usable process, keep people informed, and leave the system easier to support than I found it.
+Open to forward-deployed AI solutions roles, remote contracts and automation projects.
+**Email:** bjacque92@gmail.com · [LinkedIn](https://www.linkedin.com/in/jaba6)
